@@ -1,6 +1,6 @@
 # 🚚 Logistics Performance Dashboard — Power BI Project
 
-![Dashboard Screenshot](./Logistics%20Performance%20POWER%20BI%20Screenshot.png)
+![Dashboard Screenshot](https://github.com/Rishabh1108ch/Logistics-Performance/blob/main/Logistics%20Performance%20%20POWER%20BI%20Screenshot.png)
 
 ---
 
